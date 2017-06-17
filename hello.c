@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
 	printf("Hello Vero!");
-	printf("Conflict user number 2");
+	printf("Conflict user 2");
 }
 
