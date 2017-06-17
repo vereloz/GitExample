@@ -2,5 +2,6 @@
 int main(){
 	printf("Hello Vero!");
 	printf("User 1");
+	printf("Conflict user 2");
 }
 
